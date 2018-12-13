@@ -1,0 +1,8 @@
+name: CaptainMail
+main: me.captain.mail.CaptainMail
+author: captainawesome7
+version: 1.2
+commands:
+  mail:
+    Description: Do mail stuff
+    Usage: /mail <stuff>
